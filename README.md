@@ -1,16 +1,6 @@
-# webtoon_app
+# 프로젝트
+- Flutter로 웹툰 앱 만들기
+- [Nomadcoder - Flutter로 웹툰 앱 만들기](https://nomadcoders.co/flutter-for-beginners/lobby)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 영상
+![webtoon_app_nomadcoder](https://user-images.githubusercontent.com/118904460/227115669-849e2235-1410-4d4b-883f-b8caf7e35573.gif)
